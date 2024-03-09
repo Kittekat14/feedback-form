@@ -1,6 +1,6 @@
 <?php include 'inc/header.php'; ?>
 
-<img src="img/logo.png" class="w-25 mb-3" alt="" />
+<img src="img/my-logo.png" class="w-25 mb-3" alt="" />
 <h2>Feedback</h2>
 <p class="lead text-center">Leave feedback for Katrin Hofstetter</p>
 <form action="" class="mt-4 w-75">
